@@ -8,7 +8,9 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 --->
-- 😄 Pronouns: she/her
+Enthusiastic about documentation. 
+
+Pronouns: she/her
 <!----
 - ⚡ Fun fact: 
 ____>
