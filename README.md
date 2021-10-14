@@ -8,7 +8,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 --->
-Enthusiastic about documentation. 
+Enthusiastic about documentation. Current PhD student in the HumNet Lab at UC Berkeley. Go Bears!
 
 Pronouns: she/her
 <!----
